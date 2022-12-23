@@ -1,7 +1,7 @@
 # Password Generator using JavaScript
 edited/completed by TERRY SA
 UCB Extension Coding Bootcamp
-### Deployed Website Link: https://apostlex11.github.io/randomPWgenerator2022/
+#### Deployed Website Link: https://apostlex11.github.io/randomPWgenerator2022/
 
 ## TECHNOLOGY USED
 + JavaScript

@@ -34,7 +34,7 @@ THEN the password is either displayed in an alert or written to the page
 This was more rough than I expected. It felt like the class went from 0 to 100 in a day. Through the assistance from my co-worker and TA's I was able to find an efficient route. An actual route that works. HTML and CSS was completely a different experience. It was more based on creativity, JavaScript although requires some creativity. I believe it's more based on functionality. I'm definitely going to need to keep working on other assignments to keep me prepared for the real world scenario. 
 
 ## Screen-Shot
-![Deployed Site](/Assets/site screenshot.png)
+![Deployed Site](https://github.com/apostlex11/randomPWgenerator2022/blob/main/Assets/site%20screenshot.png)
 
 ## RESOURCES
 UCB Bootcamp Classmates
